@@ -14,8 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 个人微信 scx_white
-- 📮个人邮箱：scx_white@aliyun.com
+
+- csdn: https://scx-white.blog.csdn.net/
+- 个人微信: scx_white
+- 📮个人邮箱: scx_white@aliyun.com
+- leetcode: https://leetcode-cn.com/u/su-su-i/
 
 - 🔭 专注大数据相关技术，熟悉日志采集、数据湖、cdc、离线调度、sql解析、权限等
 公众号
