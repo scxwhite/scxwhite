@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+由于个人操作失误，导致 hera的500 star丢失，欢迎大家重新restar。谢谢各位
 <!--
 **scxwhite/scxwhite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
