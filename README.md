@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 - leetcode: https://leetcode-cn.com/u/su-su-i/
 
 - 🔭 专注大数据相关技术，熟悉日志采集、数据湖、cdc、离线调度、sql解析、权限等
+
 公众号
 
 
