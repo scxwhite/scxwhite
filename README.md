@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 
 - csdn: https://scx-white.blog.csdn.net/
 - 个人微信: scx_white
+![image](https://user-images.githubusercontent.com/23207189/197943692-7c9c3f32-1363-4e48-a595-f2f18f97b8a1.png)
+
 - 📮个人邮箱: scx_white@aliyun.com
 - leetcode: https://leetcode-cn.com/u/su-su-i/
 
@@ -28,3 +30,4 @@ Here are some ideas to get you started:
 
 
 ![](https://img-blog.csdnimg.cn/20191105103919767.jpg)
+
