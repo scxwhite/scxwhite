@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-由于操作失误，导致 [hera 分布式任务调度系统](https://github.com/scxwhite/hera)的500 star丢失，欢迎大家重新restar。谢谢各位
+由于操作失误(设置为私有项目)，导致 [hera 分布式任务调度系统](https://github.com/scxwhite/hera)的500 star丢失，欢迎大家重新restar。谢谢各位
 <!--
 **scxwhite/scxwhite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
