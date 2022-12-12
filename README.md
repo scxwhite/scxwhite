@@ -23,10 +23,10 @@
 
 #### 个人开源项目
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/scxwhite/hera">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=scxwhite&repo=hera&theme=radical&show_owner=true" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/scxwhite/parsex">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=scxwhite&repo=parsex&theme=radical&show_owner=true" />
 </a>
 
