@@ -8,7 +8,7 @@
 <a href="https://leetcode-cn.com/u/su-su-i/" target="_blank"><img alt="leecode" src="https://img.shields.io/static/v1?label=leecode&message=su-su-i&color=blue&logo=leecode"/></a> 
 <a href="mailto:1142819049@qq.com"><img alt="邮箱" src="https://img.shields.io/static/v1?label=%E9%82%AE%E7%AE%B1&message=1142819049@qq.com&color=3ABFE6&logo=Minutemailer"/></a> <img alt="微信" src="https://img.shields.io/static/v1?label=%E5%BE%AE%E4%BF%A1&message=scx_white&color=7BB32E&logo=wechat"/>
 
-> 工作：从 `2017` 年开始至今一直从事大数据周边技术工作，`2019` 年初入职现公司（杭州涂鸦智能），主要负责大数据离线计算周边平台、组件及最新技术的研究，擅长离线调度、数据湖的近实时计算、数据集成、数据开发、日志采集、`cdc`、生产环境的 `trouble-shotting`。日常也会帮助数仓、数开、分析师解决离线任务的性能问题调优。
+> 工作：从 `2017` 年开始至今一直从事大数据周边技术工作，`2019` 年初入职现公司（杭州涂鸦智能），主要负责大数据离线计算平台、组件运维以及最新技术的研究，能够根据公司业务场景设计与之匹配的架构产品并落地。擅长离线调度、数据湖的近实时计算、数据集成、数据开发、日志采集、`cdc`、生产环境的 `trouble-shotting`。日常也会帮助数仓、数开、分析师解决离线任务的性能问题调优。
 > 
 > 开源：在 `github` 上开源了能支撑数 `10W` 离线任务调度和开发系统，拥有累计近千的 `star`，开源群有 `600+` 人。平常也积极参加数据湖项目 [Apache Hudi](https://github.com/apache/hudi) 社区的建设，累计提交了十多个 `pr`，为 `hudi + spark` 方向上的近实时计算提供了可能。
 > 
