@@ -4,8 +4,8 @@
 
 #### 个人信息
 
-<a href="https://scx-white.blog.csdn.net/" target="_blank"><img alt="个人博客" src="https://img.shields.io/static/v1?label=%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2&message=csdn%E5%8D%9A%E5%AE%A2%E4%B8%93%E5%AE%B6&color=red&logo=csdn"/></a> 
-<a href="https://leetcode-cn.com/u/su-su-i/" target="_blank"><img alt="leecode" src="https://img.shields.io/static/v1?label=leecode&message=su-su-i&color=blue&logo=leecode"/></a> 
+<a href="https://scx-white.blog.csdn.net/" target="_blank"><img alt="个人博客" src="https://img.shields.io/static/v1?label=%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2&message=csdn%E5%8D%9A%E5%AE%A2%E4%B8%93%E5%AE%B6&color=red&logo=blogger"/></a> 
+<a href="https://leetcode-cn.com/u/su-su-i/" target="_blank"><img alt="leecode" src="https://img.shields.io/static/v1?label=leecode&message=su-su-i&color=blue&logo=leetcode"/></a> 
 <a href="mailto:1142819049@qq.com"><img alt="邮箱" src="https://img.shields.io/static/v1?label=%E9%82%AE%E7%AE%B1&message=1142819049@qq.com&color=3ABFE6&logo=Minutemailer"/></a> <img alt="微信" src="https://img.shields.io/static/v1?label=%E5%BE%AE%E4%BF%A1&message=scx_white&color=7BB32E&logo=wechat"/>
 
 > 工作：从 `2017` 年开始至今一直从事大数据周边技术工作，`2019` 年初入职现公司（杭州涂鸦智能），主要负责大数据离线计算平台、组件运维以及最新技术的研究，能够根据公司业务场景设计与之匹配的架构产品并落地。擅长离线调度、数据湖的近实时计算、数据集成、数据开发、日志采集、`cdc`、生产环境的 `trouble-shotting`。日常也会帮助数仓、数开、分析师解决离线任务的性能问题调优。
