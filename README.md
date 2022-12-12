@@ -18,10 +18,10 @@
 #### 个人开源项目
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=scxwhite&repo=hera&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=scxwhite&repo=hera&theme=radical&show_owner=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=scxwhite&repo=parsex&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=scxwhite&repo=parsex&theme=radical&show_owner=true" />
 </a>
 
 ---
